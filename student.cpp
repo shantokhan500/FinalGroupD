@@ -4,4 +4,5 @@ struct Student
     char name[50];
     float age;
 char department[50];
+int creditHours;
 };t
