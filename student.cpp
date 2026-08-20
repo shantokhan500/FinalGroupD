@@ -5,4 +5,5 @@ struct Student
     float age;
 char department[50];
 char status[20];
+char phone[25];
 };t
