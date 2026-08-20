@@ -5,4 +5,5 @@ struct Student
     float age;
 char department[50];
 int semester;
+int creditHours;
 };t
