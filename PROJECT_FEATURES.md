@@ -1,3 +1,3 @@
 "# Implemented Features" 
-## add age
-## add cgpa
+## add age;
+## add cgpa;
