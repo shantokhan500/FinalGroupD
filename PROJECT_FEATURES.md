@@ -2,4 +2,8 @@
 ## add age
 ## add dep
 ## add semester 
-## add cdhours
+## add email
+## add phone
+## add address 
+## add gender 
+

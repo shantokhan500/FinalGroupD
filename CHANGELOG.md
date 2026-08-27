@@ -1,6 +1,9 @@
 "# Changelog" 
 ## add age
 ## add  dep
-## add semester 
-## add cr hours
+## add email
+## add phone 
+## address 
+## add gender 
+
 
