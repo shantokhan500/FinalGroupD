@@ -1,5 +1,9 @@
 "# Changelog" 
 ## add age
 ## add  dep
-## add status
-## add phone
+## add email
+## add phone 
+## address 
+## add gender 
+
+
