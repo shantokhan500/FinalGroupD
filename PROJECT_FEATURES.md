@@ -1,5 +1,9 @@
 "# Implemented Features" 
 ## add age
 ## add dep
-## add status
-## add adr
+## add semester 
+## add email
+## add phone
+## add address 
+## add gender 
+
